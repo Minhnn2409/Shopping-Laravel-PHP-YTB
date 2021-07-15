@@ -1,0 +1,5 @@
+.product_feature_image_edit, .product_detail_image_edit{
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+}

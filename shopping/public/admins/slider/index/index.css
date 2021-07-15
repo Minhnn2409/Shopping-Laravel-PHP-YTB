@@ -1,0 +1,12 @@
+.image_index{
+    width: 100px;
+    height: 60px;
+    object-fit: cover;
+}
+
+.image_edit{
+    width: 150px;
+    height: 110px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
